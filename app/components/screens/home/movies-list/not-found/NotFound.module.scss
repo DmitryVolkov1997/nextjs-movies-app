@@ -1,0 +1,15 @@
+.title {
+  @apply text-orange-500 mb-6
+}
+
+.info__title {
+  @apply text-gray-500 mb-3
+}
+
+.list {
+  @apply text-base;
+
+  & > li {
+    @apply mb-1 font-light;
+  }
+}

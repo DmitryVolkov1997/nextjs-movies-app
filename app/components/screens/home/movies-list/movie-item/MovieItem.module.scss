@@ -1,0 +1,15 @@
+.item {
+  @apply w-1/5 overflow-hidden shadow-md cursor-pointer
+}
+
+.info {
+  @apply p-4 pt-2 text-gray-700
+}
+
+.title {
+  @apply mb-2 text-2xl
+}
+
+.row {
+  @apply flex justify-between
+}
